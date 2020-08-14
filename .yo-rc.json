@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jhipdemo.app"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "jhipsterpro",
+    "packageName": "com.jhipdemo.app",
+    "packageFolder": "com/jhipdemo/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YWE2YzBkZDQ0ODhlMGUwZTg2ODA1MDI4MGI4OTA3NDQ3NjA1YzMzZTdlZWFlMTUxNmY4MzQwZjdhZmNmODljNTAwZjgwMzIyMmRjY2U5MzU1ZWYwYTg0NzA0ZDNmNzQ0OWNlNTUwYWQxNDQ3YmFlZDExMDMyZWM3ZWU4OTk4NDM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "journal",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1597403283047,
+    "testFrameworks": ["gatling", "cucumber", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
